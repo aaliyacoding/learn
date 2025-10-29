@@ -1,0 +1,14 @@
+flask
+flask-cors
+gunicorn
+python-dotenv
+requests
+PyPDF2
+python-docx
+lxml
+transformers
+tokenizers
+torch
+huggingface-hub
+accelerate
+tqdm
